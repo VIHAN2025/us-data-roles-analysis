@@ -167,8 +167,7 @@ An analysis of the box plot reveals several critical trends regarding compensati
 The scatter plot below explores the trade-off between **Market Demand (Job Postings)** and **Financial Value (Median Annual Salary)** for top Data Analyst skills in the United States.
 
 ### 1. High Demand, Moderate Pay (The Industry Baselines)
-* **SQL & Excel**: These represent the foundation of data analytics. **SQL** dominates the chart with the highest demand (>2,500 postings) but settles at a mature median salary of ~$91K. **Excel** has massive volume (>1,800 postings) but sits at a lower entry-level compensation baseline (~$84K).
-
+* **SQL & Excel**: These represent the foundation of data analytics. **SQL** dominates the chart with the highest demand (>2,500 postings) but settles at a mature median salary of ~$91K.
 ### 2. High Demand, Premium Pay (The Sweet Spot)
 * **Python & Tableau**: This cluster yields the highest return on investment. **Python** leads the entire dataset in compensation (~$97.5K) while maintaining significant volume (>1,400 postings). **Tableau** follows closely as the premium visualization tool (~$93K salary, ~1,350 postings).
 
