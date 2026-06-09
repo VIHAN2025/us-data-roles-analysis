@@ -168,13 +168,12 @@ The scatter plot below explores the trade-off between **Market Demand (Job Posti
 
 ### 1. High Demand, Moderate Pay (The Industry Baselines)
 * **SQL & Excel**: These represent the foundation of data analytics. **SQL** dominates the chart with the highest demand (>2,500 postings) but settles at a mature median salary of ~$91K.
-### 2. High Demand, Premium Pay (The Sweet Spot)
-* **Python & Tableau**: This cluster yields the highest return on investment. **Python** leads the entire dataset in compensation (~$97.5K) while maintaining significant volume (>1,400 postings). **Tableau** follows closely as the premium visualization tool (~$93K salary, ~1,350 postings).
 
-### 3. Niche Mastery (High Pay, Low Volume)
+
+### 2. Niche Mastery (High Pay, Low Volume)
 * **Oracle & SQL Server**: These specialized database management skills feature lower job posting frequencies (<500 postings) but command strong premium salaries. **Oracle** spikes near the absolute top of the salary bracket at ~$97K, showing that enterprise-specific mastery is highly rewarded despite fewer raw openings.
 
-### 4. Oversaturated / Support Skills
+### 3. Oversaturated / Support Skills
 * **Word & PowerPoint**: These general business tools populate the bottom-left quadrant. They offer significantly lower specialized economic value (~$81K–$85K) and low standalone job posting counts, signaling they serve strictly as baseline corporate expectations rather than core data skill drivers.
 
 
